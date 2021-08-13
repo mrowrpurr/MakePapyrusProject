@@ -1,2 +1,3 @@
-# MakePapyrusProject
- Adds "Make Papyrus Project" to Windows explorer
+# 📂 New Papyrus Project
+
+> Adds "New Papyrus Project" to Windows explorer
