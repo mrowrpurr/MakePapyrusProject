@@ -1,15 +1,8 @@
 Windows Registry Editor Version 5.00
 
-[HKEY_CLASSES_ROOT\Directory\shell\Make a Papyrus Project]
-@="&Make a Papyrus Project"
-"Icon"="%SystemRoot%\\System32\\shell32.dll,71"
+[HKEY_CLASSES_ROOT\Directory\Background\shell\New Skyrim Mod]
+@="&New Skyrim Mod"
+"Icon"="C:\\Steam\\steamapps\\common\\Skyrim Special Edition\\SkyrimSE.exe"
 
-[HKEY_CLASSES_ROOT\Directory\shell\Make a Papyrus Project\command]
-@="\"C:\\Users\\mrowr\\Dropbox\\Games\\Skyrim SE\\Papyrus Project Setup\\NewPapyrusProject\\MakeExistingFolderPapyrusProject.bat\" \"%1\""
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\New Papyrus Project]
-@="&New Papyrus Project"
-"Icon"="%SystemRoot%\\explorer.exe"
-
-[HKEY_CLASSES_ROOT\Directory\Background\shell\New Papyrus Project\command]
-@="\"C:\\Users\\mrowr\\Dropbox\\Games\\Skyrim SE\\Papyrus Project Setup\\NewPapyrusProject\\NewPapyrusProjectFolder.bat\" \"%V\""
+[HKEY_CLASSES_ROOT\Directory\Background\shell\New Skyrim Mod\command]
+@="\"C:\\Users\\mrowr\\Dropbox\\Games\\Skyrim SE\\Papyrus Project Setup\\NewSkyrimMod\\NewSkyrimMod.bat\" \"%V\""

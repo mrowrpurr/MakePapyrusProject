@@ -1,9 +1,5 @@
 Windows Registry Editor Version 5.00
 
-[-HKEY_CLASSES_ROOT\Directory\shell\Make Papyrus Project]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\New Skyrim Mod]
 
-[-HKEY_CLASSES_ROOT\Directory\shell\Make Papyrus Project\command]
-
-[-HKEY_CLASSES_ROOT\Directory\Background\shell\Make Papyrus Project]
-
-[-HKEY_CLASSES_ROOT\Directory\Background\shell\Make Papyrus Project\command]
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\New Skyrim Mod\command]

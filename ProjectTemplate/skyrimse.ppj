@@ -11,7 +11,7 @@
     Final="false">
     <Variables>
         <!-- Set the name of your mod: -->
-        <Variable Name="ModName" Value="NAME_OF_YOUR_MOD" />
+        <Variable Name="ModName" Value="MOD_NAME" />
         <!-- The folder where you store all of your mods -->
         <Variable Name="ModsFolder" Value="C:\Users\mrowr\Dropbox\Skyrim\Mods" />
         <!-- Optional folder with additional source code for imports -->
