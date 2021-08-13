@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET PROJECT_TEMPLATE_DIR="C:\Users\mrowr\Dropbox\Games\Skyrim SE\Papyrus Project Setup\MakePapyrusProject\ProjectTemplate"
+SET PROJECT_TEMPLATE_DIR="C:\Users\mrowr\Dropbox\Games\Skyrim SE\Papyrus Project Setup\NewPapyrusProject\ProjectTemplate"
 
 For %%A in (%1) do (
     SET PROJECT_NAME=%%~nxA

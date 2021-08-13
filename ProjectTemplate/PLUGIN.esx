@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="0.7.4">
+  <TES4 flags="0x00000000" id="00000000" day="0" month="0" lastUserID="0" currentUserID="0" version="44" unknown="0x0000">
+    <HEDR>
+      <struct version="1.70000005" numRecords="2" nextObjectID="00000801" />
+    </HEDR>
+    <CNAM>DEFAULT</CNAM>
+    <INTV>1</INTV>
+  </TES4>
+  <GRUP label="QUST" groupType="0" day="13" month="43" lastUserID="0" currentUserID="0" unknown="0x00000000">
+    <QUST flags="0x00000000" id="00000800" day="13" month="43" lastUserID="0" currentUserID="0" version="44" unknown="0x0000">
+      <EDID>MOD_NAME_Quest</EDID>
+      <VMAD version="5" format="2">
+        <fragments unknown="0x02" filename="">
+          <alias unknown="0x00000000" object="0x00000800" version="5" objectFormat="2">
+            <script name="MOD_NAME_PlayerScript" status="0" />
+          </alias>
+        </fragments>
+      </VMAD>
+      <DNAM>
+        <struct flags="0x0101" priority="0" unknown0="0xff" unknown1="0x00000000" type="0" />
+      </DNAM>
+      <NEXT />
+      <ANAM>1</ANAM>
+      <ALST>0</ALST>
+      <ALID>PlayerRef</ALID>
+      <FNAM>0</FNAM>
+      <ALFR>00000014</ALFR>
+      <VTCK>00000000</VTCK>
+      <ALED />
+    </QUST>
+  </GRUP>
+</plugin>
